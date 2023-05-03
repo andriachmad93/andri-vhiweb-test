@@ -11,11 +11,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8000/api/photos",
+					"raw": "{{url}}/api/photos",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos"
@@ -71,11 +70,10 @@
 					]
 				},
 				"url": {
-					"raw": "localhost:8000/api/photos/2",
+					"raw": "{{url}}/api/photos/2",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos",
@@ -100,11 +98,10 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:8000/api/register",
+					"raw": "{{url}}/api/register",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"register"
@@ -128,11 +125,10 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:8000/api/login",
+					"raw": "{{url}}/api/login",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"login"
@@ -163,11 +159,10 @@
 					}
 				],
 				"url": {
-					"raw": "localhost:8000/api/photos/2",
+					"raw": "{{url}}/api/photos/2",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos",
@@ -239,11 +234,10 @@
 					]
 				},
 				"url": {
-					"raw": "localhost:8000/api/photos",
+					"raw": "{{url}}/api/photos",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos"
@@ -274,11 +268,10 @@
 					}
 				],
 				"url": {
-					"raw": "localhost:8000/api/photos/1/like",
+					"raw": "{{url}}/api/photos/1/like",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos",
@@ -311,11 +304,10 @@
 					}
 				],
 				"url": {
-					"raw": "localhost:8000/api/photos/1/unlike",
+					"raw": "{{url}}/api/photos/1/unlike",
 					"host": [
-						"localhost"
+						"{{url}}"
 					],
-					"port": "8000",
 					"path": [
 						"api",
 						"photos",
