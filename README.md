@@ -25,3 +25,11 @@ Get from Test Link.postman_collection.json and import at postman
 | Patch Photo (Upload) | POST          | /api/photos/:id         |
 | Delete Photo         | DELETE        | /api/photos/:id         |
 | Like/Unlike Photo    | POST          | /api/photos/:id/:type   |
+
+## ENV
+DB_CONNECTION=pgsql
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
