@@ -25,6 +25,8 @@ Get from Test Link.postman_collection.json and import at postman
 | Patch Photo (Upload) | POST          | /api/photos/:id         |
 | Delete Photo         | DELETE        | /api/photos/:id         |
 | Like/Unlike Photo    | POST          | /api/photos/:id/:type   |
+| Register             | POST          | /api/register           |
+| Login                | POST          | /api/login              |
 
 ## ENV
 DB_CONNECTION=pgsql
