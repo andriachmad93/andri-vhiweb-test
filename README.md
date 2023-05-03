@@ -8,6 +8,7 @@ This Repository is VhiWeb Company Test for Candidate who name Andri
 
 ## Tutorial for this repository
 - composer install
+- php artisan migrate
 - php artisan optimize
 - php artisan serve
 
